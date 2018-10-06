@@ -170,9 +170,9 @@ Insert about me
 
 ---
 ### Jennifer Perez
-<img src='' width='150'>
+<img src='images/20180915_203758.jpg' width='150'>
 
-Insert about me
+This is my short bio. 
 
 ---
 ### Erika Perez
